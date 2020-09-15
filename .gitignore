@@ -132,3 +132,4 @@ fabric.properties
 *.xml
 
 .DS_StoreHow to manage projects under Version Control Systemshttps://intellij-support.jetbrains.com
+.DS_Store
