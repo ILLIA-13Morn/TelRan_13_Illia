@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-image: url("image/pizza.jpeg");
+    background-size: cover;
+    padding: 110px;
+
+}
+.title h1{
+    font-family: 'Oswald', sans-serif;
+    color: #db545a;
+    font-size: 96px;
+    font-weight: 700;
+    margin: 20px 900px 0 0;
+    line-height: 105.6px;
+
+}
+.border-palette{
+    width: 259px;
+    border-width: 4px;
+    height: 8px;
+    border-style: solid;
+    margin: 30px auto 0 0;
+    border-color: #db545a;
+}
+.paragraph-link p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin: 30px 789px 0 0;
+    display: table;
+    color:#111111;
+}
+.paragraph-link a{
+    color: #111111;
+}
+.view_menu-link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #db545a;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin: 30px 0 60px;
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+}
