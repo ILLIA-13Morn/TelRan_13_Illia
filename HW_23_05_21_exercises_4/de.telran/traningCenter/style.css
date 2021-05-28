@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/0a9aa50403bf5f86a37cfd86/ty.jpg");
+    background-position: top right;
+    background-size: cover;
+    height: 630px;
+
+}
+
+.image {
+    display: inline-block;
+    background-image: url("image/16951-min.jpeg");
+    background-size: cover;
+    padding: 310px;
+}
+
+.title {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 100px;
+    padding-left: 50px;
+
+}
+
+.title h5 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    margin: 5px 5px;
+    color: #111111;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: left;
+
+}
+
+.title h1 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 72px;
+    font-weight: 700;
+    color: #3870bb;
+    line-height: 79.2px;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    text-align: left;
+    margin: 0;
+}
+
+.description p{
+    font-family: 'Open Sans', sans-serif;
+    color: #111111;
+    font-size: 18px;
+    line-height: 28.8px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.link1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #111111;
+    font-size: 16px;
+    line-height: 1.6;
+
+}
+.description-link1{
+    color: #111111;
+
+}
+.description-link2{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    background-color: #111111;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+    margin: 45px auto 0px 0px;
+    padding: 10px 52px 10px 51px;
+    text-decoration: none;
+
+}
+
+
